@@ -1,0 +1,27 @@
+.jumbotron img{
+	width:200px;
+
+}
+.jumbotron .typed-area{
+	display:block;
+	vertical-align:middle;
+	text-align:center;
+}
+.jumbotron .typed-area h2{
+	font-size:40px;
+	font-weight:700;
+	color:#999;
+	line-height:1.3;
+	text-shadow:0 0 40px rgba(0,0,0,0.2);
+}
+/* End Header */
+hr{
+	width:200px;
+	border-top:2px solid #eee;
+}
+section{
+	min-height:600px;
+}
+.portofolio{
+	background-color:#eee;
+}
